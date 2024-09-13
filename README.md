@@ -3,7 +3,8 @@
 I'm a student at SMK Telkom Malang studying Computer and Network Engineering.
 
 - 🌱 I’m currently learning CentOS and AWS
-- 😄 Likes: Movies, basketball, coffee, cat, learning new things
+- 😄 Likes: Movies, basketball, coffee, cat, and learning new things
+- 🧠 Very excited to learn about Cloud Tech
   
 -->
 
